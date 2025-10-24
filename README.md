@@ -39,4 +39,4 @@ Desenvolver uma aplicação funcional em **Python** que:
 ## 📽️ Demonstração em Vídeo
 
 🎥 Assista ao vídeo explicativo no YouTube:  
-👉 [https://youtu.be/QX32nQvs3b0](https://youtu.be/QX32nQvs3b0)
+👉 [https://youtu.be/NOfNaLmyIY4](https://youtu.be/NOfNaLmyIY4)
